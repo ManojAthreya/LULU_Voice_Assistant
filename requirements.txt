@@ -1,0 +1,12 @@
+sounddevice
+librosa
+tensorflow
+matplotlib
+pandas
+pyttsx3
+transformers
+openai-whisper
+numpy
+gTTS
+IPython
+playsound
