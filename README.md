@@ -1,4 +1,4 @@
-***LULU - A personal Voice Assistant***
+<img src="https://github.com/ManojAthreya/LULU_Voice_Assistant/assets/39020374/1c6df4ea-1755-4e7c-bbee-76edfca38e44" width=100 hight=100>  ***LULU - A personal Voice Assistant***   
 
 This project aims to develop a personal voice assistant leveraging natural language processing (NLP) and artificial intelligence (AI) techniques. The assistant will be capable of performing various tasks such as setting reminders, managing schedules, searching for news, gathering weather information, and more, through voice commands.
 
@@ -15,6 +15,9 @@ The personal voice assistant project involves several key components:
 - **Action Fulfilment and Answer Generation (NLG)**: Utilizing web APIs for weather prediction and news data retrieval, LULU seamlessly integrates with external services to provide real-time updates. Additionally, upon integration with compatible devices, LULU executes various actions, delivering tangible results corresponding to user requests.
 
 - **Text-to-Speech (TTS)**: Employing the Coqui TTS model from Hugging Face for text-to-speech synthesis.
+
+  ![Screenshot 2024-04-01 214009](https://github.com/ManojAthreya/LULU_Voice_Assistant/assets/39020374/b4c22d3d-c018-4899-815d-8f56c587be73)
+
 
 ***Goals***
 - Explore various components of the personal voice assistant architecture.
