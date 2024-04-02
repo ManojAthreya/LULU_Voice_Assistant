@@ -12,12 +12,13 @@ The personal voice assistant project involves several key components:
 
 - **Intent Detection and Slot Filling**: We harnessed the power of the LLM model Mistral-7B-v0.2 to detect the intents from the ASR and do the slot filling to pass it to the Action fulfilment.
 
-- **Action Fulfilment and Answer Generation (NLG)**: Utilizing web APIs for weather prediction and news data retrieval, LULU seamlessly integrates with external services to provide real-time updates. Additionally, upon integration with compatible devices, LULU executes various actions, delivering tangible results corresponding to user requests.
+- **Action Fulfilment**: Utilizing web APIs for weather prediction and news data retrieval, LULU seamlessly integrates with external services to provide real-time updates.
+  
+- **Answer Generation (NLG)**:  We used the Paraphrase Mini LMv2 model to generate answers when the task is completed and can be integrated with real components.
 
 - **Text-to-Speech (TTS)**: Employing the Coqui TTS model from Hugging Face for text-to-speech synthesis.
 
-  ![Screenshot 2024-04-01 214009](https://github.com/ManojAthreya/LULU_Voice_Assistant/assets/39020374/b4c22d3d-c018-4899-815d-8f56c587be73)
-
+ ![Screenshot 2024-04-02 114535](https://github.com/ManojAthreya/LULU_Voice_Assistant/assets/39020374/8cdc4658-147b-47f8-8e96-fa45f91897be)
 
 ***Goals***
 - Explore various components of the personal voice assistant architecture.
