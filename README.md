@@ -4,7 +4,7 @@ This project aims to develop a personal voice assistant leveraging natural langu
 
 ***Overview***
 
-The personal voice assistant project involves several key components:
+The personal voice assistant project involves several key components described below:
 
 - **Wake Word Detection**: We trained a small Neural Network to detect the wake word 'LULU'. Trained from 170 samples which says LULU from various speakers and 170 background noise and negative samples.
 
